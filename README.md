@@ -6,7 +6,7 @@ This repository contains multiple machine learning projects I have worked on. Ea
 
 ## 📌 Projects Included  
 
-### 🎬 Movie Recommendation System (Content-Based)  
+### 🎬 Movie Recommender (Content-Based)  
 - **Goal:** Recommend movies/shows similar to a given title or based on user description.  
 - **Approach:**  
   - Data cleaning and preprocessing (`description`, `genres`, `cast`).  
@@ -31,7 +31,7 @@ This repository contains multiple machine learning projects I have worked on. Ea
 
 ---
 
-### ❤️ Heart Attack Disease Detection  
+### ❤️ Heart Attack Analysis and Prediction 
 - **Goal:** Predict the likelihood of a heart attack based on patient data.  
 - **Dataset:** Heart disease dataset with attributes such as age, cholesterol, blood pressure, etc.  
 - **Approach:**  
